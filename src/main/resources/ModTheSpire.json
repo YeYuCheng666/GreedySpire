@@ -1,0 +1,10 @@
+{
+  "modid": "GreedySpire",
+  "name": "GreedySpire",
+  "author_list": ["Ben"],
+  "description": "本mod修改了游戏的部分规则，为了金币而战吧!",
+  "version": "1.1.1",
+  "sts_version": "12-18-2022",
+  "mts_version": "3.30.3",
+  "dependencies": ["basemod"]
+}
