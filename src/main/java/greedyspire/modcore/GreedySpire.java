@@ -8,7 +8,6 @@ import com.megacrit.cardcrawl.characters.AbstractPlayer;
 import com.megacrit.cardcrawl.core.Settings;
 import com.megacrit.cardcrawl.localization.*;
 import greedyspire.relics.GoldenCrown;
-
 import java.util.ArrayList;
 
 @SpireInitializer

@@ -1,0 +1,9 @@
+{
+  "GreedySpire:GoldenCrown": {
+    "NAME": "Golden Crown",
+    "FLAVOR": "A symbol of wealth and greed.",
+    "DESCRIPTIONS": [
+      "Every time you play a card, you will lose #yGold . If insufficient, replace them with equal HP. NL Battle start buffs scale with #yGold held. NL Winning a battle grants bonus #yGold based on the round count. NL You can right-click on this relic in the shop room to lose HP and get #yGold ."
+    ]
+  }
+}
